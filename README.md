@@ -1,6 +1,16 @@
 # login_page
 
-A new Flutter project.
+The repository contains a project for creating a visually appealing login page user interface (UI) using transition widgets. This project demonstrates how to enhance user experience with smooth animations and transitions in UI design.
+
+Features:
+
+Transition Effects: Implements sleek transition widgets to create a dynamic and engaging login experience.
+
+Modern UI Design: Features a contemporary design approach suitable for web or mobile applications.
+
+Customizable Layout: Can be adapted for various use cases such as authentication pages for apps or websites.
+
+Technology Stack: Likely uses front-end technologies or frameworks focused on animations and UI transitions.
 
 ## Getting Started
 
